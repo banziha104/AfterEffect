@@ -23,6 +23,7 @@
 
 - PARENT :
 
+- 하이어라키 : 객체간에 연결 시키고, 종속관계로 폴더링 
 goh@wootcreative.kr
 
 # 툴박스
@@ -50,6 +51,7 @@ value graph : 빨간색이 x출이고 초록생이 y축이며, 상대적인 위�
 - cmd + d = 복사
 - cmd + shift + d = 복사와 동시에 좌우축으로 끊음 
 - cmd + shift + c = 선택된 소르를 컴포지션으로 묶음 ( 두번째 항목 선택 )
+- cmd + k = 컴포지션 사이즈 변
 - alt + [ or ]  : 레이어 커팅
 
 # Others 
@@ -63,7 +65,18 @@ value graph : 빨간색이 x출이고 초록생이 y축이며, 상대적인 위�
 - Stroke Effect 
 - Hue 
 - Glow 
+- Corner Pin : 귀퉁이를 기준으로 다듬음
+- Puppet : 핀을 기준으로 왜곡 시킴
+    - 스트로크를 잘 인식못하기떄문에 컴프로 한번 묶어주고 사용
+    - Puppet Pin tool : 핀을 찍음
+    - Puppet Overlap : 계열을 나누면서 하는 퍼펫
+    - Puppet Statch tool 
+# 포토샵 파일을 임포트 할 때
 
-# 포토샵 파일을 임포트 할 
+# 일러스트 파일을 임포트 할 
 
-# 3주차 
+1.
+
+# 3주차 (손으로 물건 들)
+
+1. 
