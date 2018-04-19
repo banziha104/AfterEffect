@@ -19,9 +19,6 @@
     - 알파매트 : 투명도와 불투명으로 다룸
     - 루나매트 : 검정색과 흰색으로 다룸 
     
-- MODE :
-
-- PARENT :
 
 - 하이어라키 : 객체간에 연결 시키고, 종속관계로 폴더링 
 goh@wootcreative.kr
@@ -76,36 +73,10 @@ value graph : 빨간색이 x출이고 초록생이 y축이며, 상대적인 위�
 
 # Effects
 
-- Stroke Effect 
-- Hue 
-- Glow 
-- Corner Pin : 귀퉁이를 기준으로 다듬음
-- Gradient Ramp : 그데이션을줌
-- Puppet : 핀을 기준으로 왜곡 시킴
-    - 스트로크를 잘 인식못하기떄문에 컴프로 한번 묶어주고 사용
-    - Puppet Pin tool : 핀을 찍음
-    - Puppet Overlap : 계열을 나누면서 하는 퍼펫
-    - Puppet Statch tool 
-- Curve : 색 보정 
-- Mesh warp 
-- 4-Color-Gradient : 자연스럽게 그라데이션을 둠 
-- Slider : 자체적인 이펙트가 아닌 익스프레션과 주로 같이쓰임
-- Bend : 구부림 
-    - Start : 시작점
-    - End : 종료지점
-    - Bend: 구부림
-    
-- Wave warp: 흩날리는 이펙트를줌
-- Venetian Blinds : 면을 빗금으로 바꿔준다
-- Tubulent Displace : 도형을 왜곡시킴
-- Echo : 잔상효과 , Shape Layer 만 적용 가능함
-- Noisy : 모노톤을 만들때 쓰기좋음
-- CC page turn : 페이지를 전환함
+- ![Effect 파일]()
 
 
-# 포토샵 파일을 임포트 할 때
-
-# 일러스트레이터 파일을 임포트 할 
+# 일러스트레이터 파일을 임포트 할 때
 
 1. Release to Layer를 통해 분할
 2. Release to Layer(Sequence)의 경우, 그룹은 건들지않음
@@ -121,11 +92,6 @@ value graph : 빨간색이 x출이고 초록생이 y축이며, 상대적인 위�
 # Light
 
 복습하기
-
-# 3주차 (손으로 물건 들)
-
-1. 오토베지어 꼭알아보기
-
 
 # Particular 
 
@@ -174,4 +140,8 @@ value graph : 빨간색이 x출이고 초록생이 y축이며, 상대적인 위�
         5. 작은소스부터 컨트롤러 순으로 클릭
         6. IK 적
         
-- Bones : 퍼펫을 관절로 만
+- Bones : 퍼펫을 관절로 만듬
+
+# 팁
+
+- Layer -> Auto Trace : Png 파일을 벡터이미지로 전환 
