@@ -73,7 +73,7 @@ value graph : 빨간색이 x출이고 초록생이 y축이며, 상대적인 위�
 
 # Effects
 
-- ![Effect 파일]()
+- ![Effect 파일](https://github.com/banziha104/AfterEffect/blob/master/Effects.md)
 
 
 # 일러스트레이터 파일을 임포트 할 때
@@ -95,12 +95,8 @@ value graph : 빨간색이 x출이고 초록생이 y축이며, 상대적인 위�
 
 # Particular 
 
-- Emitter : 시작지점과 속도들도 조정
-- Palaticulr : 파티클 그 자체
-- Physics : 물리 담당 (중력 )
-    - Turbulence Field : 일렁이는 효과를 줄수잇음
-    
-- Aux system : 파티큘라 안에 파티큘라를 넣음 
+- ![Particular 파일](https://github.com/banziha104/AfterEffect/blob/master/Particular.md)
+
 
 # Expression
 

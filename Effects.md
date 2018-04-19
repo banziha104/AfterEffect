@@ -24,3 +24,4 @@
 - Echo : 잔상효과 , Shape Layer 만 적용 가능함
 - Noisy : 모노톤을 만들때 쓰기좋음
 - CC page turn : 페이지를 전환함
+
