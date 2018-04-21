@@ -92,15 +92,15 @@ value graph : 빨간색이 x출이고 초록생이 y축이며, 상대적인 위�
 
 # Effects
 
-- ![Effect](https://github.com/banziha104/AfterEffect/blob/master/Effects.md)
+- [Effect](https://github.com/banziha104/AfterEffect/blob/master/Effects.md)
 
 # Particular 
 
-- ![Particular](https://github.com/banziha104/AfterEffect/blob/master/Particular.md)
+- [Particular](https://github.com/banziha104/AfterEffect/blob/master/Particular.md)
 
 # Duik
 
-- ![Duik](https://github.com/banziha104/AfterEffect/blob/master/Particular.md)
+- [Duik](https://github.com/banziha104/AfterEffect/blob/master/Particular.md)
 
 # Expression
 
